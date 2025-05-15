@@ -1,0 +1,1 @@
+Brand: Tesla | Models: [Model S, Model 3, Model X, Model Y] | Prices: [80000.0, 40000.0, 90000.0, 50000.0]

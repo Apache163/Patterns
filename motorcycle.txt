@@ -1,0 +1,6 @@
+Harley-Davidson
+2
+Sportster
+15000.0
+Fat Boy
+20000.0

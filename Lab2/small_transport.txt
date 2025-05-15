@@ -1,0 +1,1 @@
+Brand: Toyota | Models: [Camry, Corolla] | Prices: [30000.0, 25000.0]

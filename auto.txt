@@ -1,0 +1,8 @@
+Toyota
+3
+Camry
+30000.0
+Corolla
+25000.0
+RAV4
+35000.0
